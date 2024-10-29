@@ -110,6 +110,9 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+header:
+  image: /assets/images/dasip_banner_temp.png
+
 
 # Site Author
 author:
@@ -239,7 +242,7 @@ paginate_path: /page:num/
 #   for configuration details
 pagination:
   # Set enabled to true to use paginate v2
-  # enabled: true
+  # enabled: false
   debug: false
   collection: 'posts'
   per_page: 10
