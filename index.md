@@ -7,9 +7,12 @@
 
 The Workshop on Design and Architectures for Signal and Image Processing (DASIP) provides an inspiring international forum for the latest innovations and developments in the field of leading signal, image and video processing and machine learning in custom embedded, edge and cloud computing architectures and systems. The workshop program will include keynote speeches and contributed paper sessions. The 15th edition will be held in conjunction with the 17th HiPEAC Conference in Budapest, Hungary, June 20-22 2022.
 
-## Table of Contents
+## Menu
 - [List of topics](#list-of-topics)
+- [Paper submission](#paper-submission)
+- [Schedule](#schedule)
 - [Venue](#venue)
+- [Committees](#committees)
 - [Contact](#contact)
 - [Past events](#past-events)
 
