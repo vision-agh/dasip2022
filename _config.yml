@@ -110,9 +110,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-header:
-  image: /assets/images/dasip_banner_temp.png
-
 
 # Site Author
 # author:
@@ -326,5 +323,7 @@ defaults:
       comments: false # true
       share: false
       related: false
-
+      
+header:
+  overlay_image: /assets/images/dasip_banner_temp.png
 
