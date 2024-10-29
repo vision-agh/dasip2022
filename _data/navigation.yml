@@ -1,12 +1,18 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /#about
+  - title: "Spring Call for Papers"
+    url: /#2ndcfp
+  - title: "Paper submission"
+    url: /#paper_submission
+  - title: "Schedule"
+    url: /#schedule
+  - title: "Venue"
+    url: /#venue
+  - title: "Committees"
+    url: /#committees
+  - title: "Contact"
+    url: /#contact
+  - title: "Past events"
+    url: /#past
