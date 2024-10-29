@@ -324,6 +324,9 @@ defaults:
       share: false
       related: false
       
-header:
-  overlay_image: /assets/images/dasip_banner_temp.png
+# header:
+#   overlay_image: /assets/images/dasip_banner_temp.png
 
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+  overlay_color: "#333"
