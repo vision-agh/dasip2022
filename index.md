@@ -68,6 +68,54 @@ Keynote 2: **Hyperspectral Image and Video Processing in Neurosurgery** – Edua
 
 ![alt text](images/DASIP-Annonce-Edu.png)
 
+| **Mon. 20st** | **Sessions**                                                                                | **Title**                                                                                               |
+|----------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **10:00**    | **Keynote 1**                                                                              | **“Welcome to DASIP22”** Karol Desnos (IETR) & Sergio Pertuz (TUD)                    |
+| &nbsp;   | &nbsp;                                                                                  |  **“The Challenges of Hardware/Software Co-Design”** Dave Lancey (Graphcore) |
+| **11:00**    | **Coffee break**                                                                            | &nbsp;                                                                                              |
+| 11:30    | **Technical Session 1: Chair: Tomasz Kryjak (AGH)**                                                        |   &nbsp;                                |
+| &nbsp;   | **Data-Type Assessment for Real-Time Hyperspectral Classification in Medical Imaging** | &nbsp;   |
+| &nbsp;   | Manuel Villa, Jaime Sancho, Guillermo Vazquez, Gonzalo Rosa, Gemma Urbanos, Alberto Martin-Perez, Pallab Sutradhar, Ruben Salvador, Miguel Chavarrias, Alfonso Lagares, Eduardo Juarez and Cesar Sanz |
+| &nbsp;   | **Exploring fully convolutional networks for the segmentation of hyperspectral imaging applied to advanced driver assistance systems**                                            |
+| &nbsp;   | Jon Gutiérrez-Zaballa, Pablo Prieto López, Javier Echanobe, M. Victoria Martínez, Inés del Campo and Koldo Basterretxea                                                       |
+| &nbsp;   | **An adaptable cognitive microcontroller node for fitness activity recognition**         |
+| &nbsp;   | Matteo Antonio Scrugli, Bojan Blažica and Paolo Meloni.         |
+| **13:00**    | **Lunch break**                                                                          | &nbsp; |
+| 14:00    | **Technical Session 2: Chair: ?**                                                        |   &nbsp;                                |
+| &nbsp;   | **High-Performance Gallager-E Decoders for Hard Input LDPC decoding on Multi-core Devices** | &nbsp;   |
+| &nbsp;   | Bertrand Le Gal, Christophe Jégo and Vincent Pignoly. |
+| &nbsp;   | **Low Latency Architecture Design for Decoding 5G NR Polar Codes**                                            |
+| &nbsp;   | Oualid Mouhoubi, Charbel Abdel Nour and Amer Baghdadi                                                       |
+| &nbsp;   | **Efficient Software and Hardware Implementations of a QCSP Communication System**         |
+| &nbsp;   | Camille Monière, Bertrand Le Gal and Emmanuel Boutillon.         |
+| **15:30**    | **Coffee break**                                                                            | &nbsp;                                                 |
+| 16:00    | **Technical Session 3: Chair: Alfonso Rodriguez (UPM)**                                                        |   &nbsp;                                |
+| &nbsp;   | **Influence of Dataflow Graph Moldable Parameters on Optimization Criteria** | &nbsp;   |
+| &nbsp;   | Alexandre Honorat, Thomas Bourgoin, Hugo Miomandre, Karol Desnos, Daniel Menard and Jean-Francois Nezan. |
+| &nbsp;   | **QoS aware design-time/run-time manager for FPGA-based embedded systems**                                            |
+| &nbsp;   | Alexis Duhamel and Sebastien Pillement                                                       |
+| &nbsp;   | **Fixed-Point Code Synthesis Based on Constraint Generation**         |
+| &nbsp;   | Sofiane Bessaï, Dorra Ben Khalifa, Hanane Benmaghnia and Matthieu Martel.         |
+| &nbsp;   | **Towards real-time and energy efficient Siamese tracking: a hardware-software approach**         |
+| &nbsp;   | Dominika Przewłocka-Rus and Tomasz Kryja.         |
+| **17:30**    | **End of first day**                                                                            | &nbsp;                                                 |
+
+
+| **Tue. 21st** | **Sessions**                                                                                | **Title**                                                                                               |
+|----------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **10:00**    | **Keynote 2**                                                                              | **"Hyperspectral Image and Video Processing in Neurosurgery”** Eduardo Juarez (UPM)                    |
+| &nbsp;   | &nbsp;                                                                                  |
+| **11:00**    | **Coffee break**                                                                            | &nbsp;                                                                                              |
+| 11:30    | **Technical Session 1: Chair: Tomasz Kryjak (AGH)**                                                        |   &nbsp;                                |
+| &nbsp;   | **Dynamic pruning for parsimonious CNN inference on embedded systems** | &nbsp;   |
+| &nbsp;   | Paola Busia, Ilias Theodorakopoulos, Vasileios Pothos, Nikos Fragoulis and Paolo Meloni |
+| &nbsp;   | **DL-CapsNet: A Deep and Light Capsule Network**                                            |
+| &nbsp;   | Pouya Shiri and Amirali Baniasadi                                                       |
+| &nbsp;   | **Comparative Study of Scheduling a Convolutional Neural Network on Multicore MCU**         |
+| &nbsp;   | Petr Dobias, Thomas Garbay, Bertrand Granado, Khalil Hachicha and Andrea Pinna.         |
+| **13:00**    | **End of DASIP22**                                                                          | **“Best Paper Award Announcement &amp; DASIP22 Closure”** Karol Desnos (IETR) &amp; Sergio Pertuz (TUD) |
+| &nbsp;   |
+
 
 
 
@@ -123,10 +171,11 @@ Camille Monière, Bertrand Le Gal and Emmanuel Boutillon
 * Camera ready: June 10th, 2022
 * Workshop: June 20-21, 2022*
 
+[Fall call for papers (pdf)](CFP_DASIP_2022_PDF_0_2.pdf)
 
-##Committees
+## Committees
 **Steering Committee:**
-* 
+  
 * Bertrand Granado, Sorbonne Univeristy, France
 * Diana Goehringer, Technical University of Dresden, Germany
 * Eduardo de La Torre, Polytechnic University of Madrid, Spain
