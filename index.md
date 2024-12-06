@@ -272,7 +272,7 @@ The Workshop on Design and Architectures for Signal and Image Processing will be
 All questions about the workshop and submissions should be emailed to [Karol Desnos](mailto:karol.desnos@insa-rennes.fr) or [Sergio Pertuz ](mailto:sergio.pertuz@tu-dresden.de)
 
 ## Past events
-* [DASIP 2021 (14th), In conjunction with the 16th HiPEAC Conference in Budapest, Hungary](http://dasip2021.agh.edu.pl/)
+* [DASIP 2021 (14th), In conjunction with the 16th HiPEAC Conference in Budapest, Hungary](https://vision-agh.github.io/dasip2021/)
 * [DASIP 2019 (13th), Polytechnique Montréal, Canada](https://dasip2019.gr2m.polymtl.ca/)
 * [DASIP 2018 (12th), University of Porto, Portugal](https://web.fe.up.pt/~specs/events/dasip2018/)
 * DASIP 2017 (11th), Technical University of Dresden, Germany
